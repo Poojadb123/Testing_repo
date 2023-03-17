@@ -10,4 +10,5 @@ export function getAboutUsLink(language){
   kejrkln
 
   new QA chgange
+  practice changes
 }
