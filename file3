@@ -27,6 +27,7 @@
             driver.navigate().refresh();  
         
             //Closing browser  
-            driver.close();   
+            driver.close(); 
+            //This is testing code : 
     }  
 }  
